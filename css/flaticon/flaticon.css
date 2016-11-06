@@ -1,0 +1,130 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-briefcases3:before {
+	content: "\e000";
+}
+.flaticon-clouds60:before {
+	content: "\e001";
+}
+.flaticon-cogwheel43:before {
+	content: "\e002";
+}
+.flaticon-computer251:before {
+	content: "\e003";
+}
+.flaticon-computer252:before {
+	content: "\e004";
+}
+.flaticon-computer monitor1:before {
+	content: "\e005";
+}
+.flaticon-computer mouse20:before {
+	content: "\e006";
+}
+.flaticon-computers32:before {
+	content: "\e007";
+}
+.flaticon-computers33:before {
+	content: "\e008";
+}
+.flaticon-customer service9:before {
+	content: "\e009";
+}
+.flaticon-data storage6:before {
+	content: "\e00a";
+}
+.flaticon-documents51:before {
+	content: "\e00b";
+}
+.flaticon-drills:before {
+	content: "\e00c";
+}
+.flaticon-email20:before {
+	content: "\e00d";
+}
+.flaticon-exclamation34:before {
+	content: "\e00e";
+}
+.flaticon-file204:before {
+	content: "\e00f";
+}
+.flaticon-headphones51:before {
+	content: "\e010";
+}
+.flaticon-inbox50:before {
+	content: "\e011";
+}
+.flaticon-keys20:before {
+	content: "\e012";
+}
+.flaticon-magnifying glass57:before {
+	content: "\e013";
+}
+.flaticon-networking5:before {
+	content: "\e014";
+}
+.flaticon-pencils12:before {
+	content: "\e015";
+}
+.flaticon-pendrive13:before {
+	content: "\e016";
+}
+.flaticon-pictures10:before {
+	content: "\e017";
+}
+.flaticon-print78:before {
+	content: "\e018";
+}
+.flaticon-screws:before {
+	content: "\e019";
+}
+.flaticon-security62:before {
+	content: "\e01a";
+}
+.flaticon-servers2:before {
+	content: "\e01b";
+}
+.flaticon-smartphone119:before {
+	content: "\e01c";
+}
+.flaticon-smartphones2:before {
+	content: "\e01d";
+}
+.flaticon-tablet28:before {
+	content: "\e01e";
+}
+.flaticon-telephone158:before {
+	content: "\e01f";
+}
+.flaticon-telephone159:before {
+	content: "\e020";
+}
+.flaticon-time80:before {
+	content: "\e021";
+}
+.flaticon-vans1:before {
+	content: "\e022";
+}
+.flaticon-videos11:before {
+	content: "\e023";
+}
+.flaticon-work31:before {
+	content: "\e024";
+}
+.flaticon-wrench103:before {
+	content: "\e025";
+}

@@ -1,0 +1,148 @@
+html {
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	box-sizing: border-box;
+}
+h1 {
+	padding: 1rem;
+	font-size: 2rem;
+}
+h1.section-header {
+	font-size: 2.5rem;
+}
+body {
+	font-family: Ubuntu;
+	margin: 0;
+	padding: 0;
+}
+section#splash {
+	display: flex;
+	flex-flow: column;
+	justify-content: space-between;
+	color: white;
+	background-image: url(../images/splash_1280.jpg);
+	background-size: cover;
+	background-repeat: no-repeat ;
+	background-attachment: fixed;
+	background-position: top;
+	min-height: 500px;
+	height: 100vh;
+	width: 100%;
+}
+#navbar {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: flex-end;
+}
+#hero {
+	text-transform: uppercase;
+	text-align: center;
+}
+#hero img {
+	max-width: 100%;
+	width: 30rem;
+}
+a#down-button {
+	text-align: center;
+	font-size: 3.5rem;
+	padding: 0.5rem;
+	color: white;
+}
+a#down-button:hover {
+	color: #1abc9c;
+}
+a.splash-button {
+	border: white solid 1px;
+	font-family: Oswald;
+	color: inherit;
+	font-size: 1.5em;
+	text-decoration: none;
+	background-color: #1abc9c;
+	border-radius: 0.5em;
+	padding: .5em;
+}
+.hero-text {
+	font-family: Oswald;
+	font-size: 3em;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.fi-large:before {
+	font-size: 5em;
+	margin-left: 0;
+}
+section {
+	width: 100%;
+	padding: 1rem;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+section#about {
+	padding-top: 15rem;
+	padding-bottom: 15rem;
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: space-between;
+	font-size: 1.25rem;
+	text-align: center;
+}
+section#services {
+	padding-top: 10rem;
+	padding-bottom: 10rem;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	background-color: #edf3f3;
+}
+div#service-grid {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	text-align: center;
+}
+div.service {
+	max-width: 20rem;
+	padding: 2rem;
+}
+img.brand {
+	max-width: 100%;
+}
+section#technologies {
+	padding-top: 10rem;
+	padding-bottom: 10rem;
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: space-between;
+	align-items: center;
+	background-color: white;
+}
+section#technologies div {
+	display: flex;
+	flex-flow: row wrap;
+	align-items: center;
+	justify-content: space-around;
+}
+section#technologies img {
+	width: 12rem;
+	padding: 1rem;
+}
+section#contact {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	align-items: flex-end;
+	background-color: #d4dada;
+}
+section#contact a {
+	text-decoration: none;
+	color: black;
+}
+section#contact a:hover {
+	color: blue;
+}
+footer {
+	display: flex;
+	flex-flow: column wrap;
+}
